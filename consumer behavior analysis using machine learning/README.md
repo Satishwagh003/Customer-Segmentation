@@ -1,6 +1,6 @@
-# Customer-segmentation-and-consumer-behavior-analysis
+# Customer segmentation and consumer behavior analysis
 
-(Please click on the Consumer buying behavior - Paul.ipynb above to see the detailed application of analytics and its interpretation)
+(Please click on the Consumer buying behavior - satish.ipynb above to see the detailed application of analytics and its interpretation)
 
 Brief Snapshot: 
 
